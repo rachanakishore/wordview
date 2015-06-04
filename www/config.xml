@@ -6,7 +6,7 @@
         id        = "com.phonegap.wordview"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>Word View</name>
 
     <description>
         Vocab app for CAT, GRE aspirants!
